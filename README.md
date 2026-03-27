@@ -210,10 +210,7 @@ The OSCAR ontology uses OWL 2 DL expressivity (ALCIF(D)) and is constructed prog
 
 OSCAR is designed with awareness of aviation safety certification standards including DO-178C (software considerations in airborne systems), ARP4754A (development of civil aircraft and systems), and the EASA AI Roadmap for machine learning applications in aviation.
 
-## Author
+## Authors
 
-Xiaowei Zhu — Master's Thesis, Institute of Aircraft Systems (ILS), University of Stuttgart
+Dr.Yassine Akhiat, Xiaowei Zhu, Prof. Dr.-Ing.Zamira Daw Institute of Aircraft Systems (ILS), University of Stuttgart
 
-## License
-
-This project is part of a master's thesis at the University of Stuttgart and is subject to the university's academic policies.

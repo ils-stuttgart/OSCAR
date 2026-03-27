@@ -214,3 +214,5 @@ OSCAR is designed with awareness of aviation safety certification standards incl
 
 Dr.Yassine Akhiat, Xiaowei Zhu, Prof. Dr.-Ing.Zamira Daw Institute of Aircraft Systems (ILS), University of Stuttgart
 
+# License
+Apache License 2.0 — free for research and commercial use, with explicit patent grants for contributors and users.

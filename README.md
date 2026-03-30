@@ -2,8 +2,7 @@
 
 **OSCAR** is a semi-automated closed-loop framework that uses ontology-based reasoning to guide synthetic data augmentation for CNN training in runway identification during landing approach. By integrating SWRL rule-based weakness inference and SPARQL-driven knowledge extraction into the training cycle, OSCAR systematically diagnoses CNN failures, identifies misclassification root causes, and generates targeted training data — shifting data augmentation from stochastic trial-and-error to a deterministic, semantically grounded engineering discipline.
 
-![OSCAR Methodology Overview](Figures/ch3_new_OSCAR_ Methodology_Overview.png)
-
+<img src="Figures/oscar_conceptual.png" alt="OSCAR Methodology Overview" width="500"/>
 ## Motivation
 
 Existing data augmentation approaches for safety-critical perception systems suffer from three core gaps:
